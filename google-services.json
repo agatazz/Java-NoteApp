@@ -16,7 +16,7 @@
       "oauth_client": [
         {
           "client_id": "1039546462131-74pbjd7rrg8hr8t3qp0vd48dgckc4s87.apps.googleusercontent.com",
-          "client_type": 3
+          "client_type": 3,
           "android_info": {
             "package_name": "com.example.notesapp",
             "certificate_hash": "43bc01b3f8f290da6e324be1f5070d0bb1ac0bb9"
