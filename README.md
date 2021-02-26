@@ -1,5 +1,10 @@
 # NoteApp
-Aplikacja która umożliwia rejestracje(wymagane podanie maila i hasła składajacego się z przynajmniej 6 znaków) oraz logowanie(wymagane podanie maila i hasła składajacego się z przynajmniej 6 znaków) do chmury Firebase oraz dodanie notatki(wymagane pola-tytuł,treść) oraz usunięcie jej z pamięci.
+Aplikacja która umożliwia założenie konta oraz tworzenie notatek.
+
+## Technologie
+1. Android SDK 4.0.0
+2. Java 7
+3. Firebase 16.0.1
 
 ## Rejestracja
 - Aplikacja wymaga od użytkownika podania emaila i hasła(min.6 znaków)
